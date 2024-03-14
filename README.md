@@ -8,3 +8,5 @@ Database and Tools
 Postgre SQL
 PgAdmin4
 Schema- Music Store Database
+
+https://github.com/JyotiJanai/Music-Store-Analysis/blob/main/MusicDatabaseSchema.png
